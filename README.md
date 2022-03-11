@@ -1,6 +1,6 @@
 <br />
 
-## 🌈 &nbsp; wanted-codestates-project-10-7 
+## 🌈 &nbsp; wanted-codestates-project-10-9 
 
 ### 📎 &nbsp; [과제링크](https://nervous-morse-45f438.netlify.app/)
 
